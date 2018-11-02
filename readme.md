@@ -34,7 +34,7 @@ MAIL_ENCRYPTION=null
 
 ## NB
 - Remember to set up your database first on laravel and phpymyadmin before running 
-# -Running the application
+# Running the application
 -  In the terminal or cmd  window  run php artisan serve in the directory where the application is located, you will be directed  to the following link http://127.0.0.1:8000 on your local drive
 - After signing up go to http://127.0.0.1:8000/products to see the shopping cart
 
